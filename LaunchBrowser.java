@@ -47,5 +47,6 @@ public class LaunchBrowser {
 	   Thread.sleep(3000);
 	   obj.selectByValue("LEAD_DIRECTMAIL");
 	   obj.deselectByValue("LEAD_DIRECTMAIL");
+        
 	}
 }
